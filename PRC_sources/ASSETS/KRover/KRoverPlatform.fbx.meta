@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 0a299f79ceae2c4478fc65f4ddf2518c
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: KRover_LBoardCollider
+    100002: KRover_RBoardCollider
+    100004: //RootNode
+    100006: KRoverPlatformExtention
+    100008: KRoverPlatformMain
+    100010: pCube12
+    100012: pCube15
+    100014: pCube16
+    100016: pCube17
+    100018: pCube18
+    100020: pCube23
+    100022: pCube24
+    100024: pCube25
+    100026: pCube25 1
+    100028: pCube26
+    100030: pCube26 1
+    100032: pCube27
+    100034: pCube27 1
+    100036: pCube28
+    100038: pCube29
+    100040: pCube30
+    100042: pCube5
+    100044: pCube50
+    100046: pCube50 1
+    100048: pCube51
+    100050: pCube53
+    100052: pCube53 1
+    100054: pCube54
+    100056: pCube54 1
+    100058: pCube55
+    100060: pCube55 1
+    100062: pCube56
+    100064: pCube56 1
+    100066: pCube57
+    100068: pCube57 1
+    100070: pCube58
+    100072: pCube58 1
+    100074: pCube59
+    100076: pCube59 1
+    100078: pCube6
+    100080: pCube60
+    100082: pCube60 1
+    100084: pCube61
+    100086: pCube61 1
+    100088: pCube62
+    100090: pCube62 1
+    100092: pCube63
+    100094: pCube63 1
+    100096: pCube64
+    100098: pCube64 1
+    100100: pCube65
+    100102: pCube7
+    100104: pCube7 1
+    100106: pCube7 2
+    100108: pCube7 3
+    100110: pCube8
+    100112: pCube8 1
+    100114: pCube8 2
+    100116: pCube8 3
+    100118: pCylinder10
+    100120: pCylinder11
+    100122: pCylinder12
+    100124: pCylinder12 1
+    100126: pCylinder13
+    100128: pCylinder13 1
+    100130: pCylinder14
+    100132: pCylinder14 1
+    100134: pCylinder15
+    100136: pCylinder15 1
+    100138: pCylinder16
+    100140: pCylinder17
+    100142: pCylinder18
+    100144: pCylinder19
+    100146: pCylinder2
+    100148: pCylinder20
+    100150: pCylinder21
+    100152: pCylinder22
+    100154: pCylinder23
+    100156: pCylinder34
+    100158: pCylinder42
+    100160: pCylinder42 1
+    100162: pCylinder43
+    100164: pCylinder43 1
+    100166: pCylinder44
+    100168: pCylinder5
+    100170: pCylinder6
+    100172: pCylinder6 1
+    100174: pCylinder7
+    100176: pCylinder8
+    100178: pCylinder8 1
+    100180: pCylinder9
+    100182: pCube67
+    100184: pCube68
+    100186: pCylinder45
+    100188: pCube455
+    100190: pCylinder54
+    100192: pCylinder58
+    100194: FlagPlate
+    100196: FlagPlate1
+    100198: pCube531
+    400000: KRover_LBoardCollider
+    400002: KRover_RBoardCollider
+    400004: //RootNode
+    400006: KRoverPlatformExtention
+    400008: KRoverPlatformMain
+    400010: pCube12
+    400012: pCube15
+    400014: pCube16
+    400016: pCube17
+    400018: pCube18
+    400020: pCube23
+    400022: pCube24
+    400024: pCube25
+    400026: pCube25 1
+    400028: pCube26
+    400030: pCube26 1
+    400032: pCube27
+    400034: pCube27 1
+    400036: pCube28
+    400038: pCube29
+    400040: pCube30
+    400042: pCube5
+    400044: pCube50
+    400046: pCube50 1
+    400048: pCube51
+    400050: pCube53
+    400052: pCube53 1
+    400054: pCube54
+    400056: pCube54 1
+    400058: pCube55
+    400060: pCube55 1
+    400062: pCube56
+    400064: pCube56 1
+    400066: pCube57
+    400068: pCube57 1
+    400070: pCube58
+    400072: pCube58 1
+    400074: pCube59
+    400076: pCube59 1
+    400078: pCube6
+    400080: pCube60
+    400082: pCube60 1
+    400084: pCube61
+    400086: pCube61 1
+    400088: pCube62
+    400090: pCube62 1
+    400092: pCube63
+    400094: pCube63 1
+    400096: pCube64
+    400098: pCube64 1
+    400100: pCube65
+    400102: pCube7
+    400104: pCube7 1
+    400106: pCube7 2
+    400108: pCube7 3
+    400110: pCube8
+    400112: pCube8 1
+    400114: pCube8 2
+    400116: pCube8 3
+    400118: pCylinder10
+    400120: pCylinder11
+    400122: pCylinder12
+    400124: pCylinder12 1
+    400126: pCylinder13
+    400128: pCylinder13 1
+    400130: pCylinder14
+    400132: pCylinder14 1
+    400134: pCylinder15
+    400136: pCylinder15 1
+    400138: pCylinder16
+    400140: pCylinder17
+    400142: pCylinder18
+    400144: pCylinder19
+    400146: pCylinder2
+    400148: pCylinder20
+    400150: pCylinder21
+    400152: pCylinder22
+    400154: pCylinder23
+    400156: pCylinder34
+    400158: pCylinder42
+    400160: pCylinder42 1
+    400162: pCylinder43
+    400164: pCylinder43 1
+    400166: pCylinder44
+    400168: pCylinder5
+    400170: pCylinder6
+    400172: pCylinder6 1
+    400174: pCylinder7
+    400176: pCylinder8
+    400178: pCylinder8 1
+    400180: pCylinder9
+    400182: pCube67
+    400184: pCube68
+    400186: pCylinder45
+    400188: pCube455
+    400190: pCylinder54
+    400192: pCylinder58
+    400194: FlagPlate
+    400196: FlagPlate1
+    400198: pCube531
+    2300000: KRover_LBoardCollider
+    2300002: KRover_RBoardCollider
+    2300004: KRoverPlatformExtention
+    2300006: KRoverPlatformMain
+    2300008: pCube12
+    2300010: pCube15
+    2300012: pCube16
+    2300014: pCube17
+    2300016: pCube18
+    2300018: pCube23
+    2300020: pCube24
+    2300022: pCube25
+    2300024: pCube25 1
+    2300026: pCube26
+    2300028: pCube26 1
+    2300030: pCube27
+    2300032: pCube27 1
+    2300034: pCube28
+    2300036: pCube29
+    2300038: pCube30
+    2300040: pCube5
+    2300042: pCube50
+    2300044: pCube50 1
+    2300046: pCube51
+    2300048: pCube53
+    2300050: pCube53 1
+    2300052: pCube54
+    2300054: pCube54 1
+    2300056: pCube55
+    2300058: pCube55 1
+    2300060: pCube56
+    2300062: pCube56 1
+    2300064: pCube57
+    2300066: pCube57 1
+    2300068: pCube58
+    2300070: pCube58 1
+    2300072: pCube59
+    2300074: pCube59 1
+    2300076: pCube6
+    2300078: pCube60
+    2300080: pCube60 1
+    2300082: pCube61
+    2300084: pCube61 1
+    2300086: pCube62
+    2300088: pCube62 1
+    2300090: pCube63
+    2300092: pCube63 1
+    2300094: pCube64
+    2300096: pCube64 1
+    2300098: pCube65
+    2300100: pCube7
+    2300102: pCube7 1
+    2300104: pCube7 2
+    2300106: pCube7 3
+    2300108: pCube8
+    2300110: pCube8 1
+    2300112: pCube8 2
+    2300114: pCube8 3
+    2300116: pCylinder10
+    2300118: pCylinder11
+    2300120: pCylinder12
+    2300122: pCylinder12 1
+    2300124: pCylinder13
+    2300126: pCylinder13 1
+    2300128: pCylinder14
+    2300130: pCylinder14 1
+    2300132: pCylinder15
+    2300134: pCylinder15 1
+    2300136: pCylinder16
+    2300138: pCylinder17
+    2300140: pCylinder18
+    2300142: pCylinder19
+    2300144: pCylinder2
+    2300146: pCylinder20
+    2300148: pCylinder21
+    2300150: pCylinder22
+    2300152: pCylinder23
+    2300154: pCylinder34
+    2300156: pCylinder42
+    2300158: pCylinder42 1
+    2300160: pCylinder43
+    2300162: pCylinder43 1
+    2300164: pCylinder44
+    2300166: pCylinder5
+    2300168: pCylinder6
+    2300170: pCylinder6 1
+    2300172: pCylinder7
+    2300174: pCylinder8
+    2300176: pCylinder8 1
+    2300178: pCylinder9
+    2300180: pCube67
+    2300182: pCube68
+    2300184: pCylinder45
+    2300186: pCube455
+    2300188: pCylinder54
+    2300190: pCylinder58
+    2300192: FlagPlate
+    2300194: FlagPlate1
+    2300196: pCube531
+    3300000: KRover_LBoardCollider
+    3300002: KRover_RBoardCollider
+    3300004: KRoverPlatformExtention
+    3300006: KRoverPlatformMain
+    3300008: pCube12
+    3300010: pCube15
+    3300012: pCube16
+    3300014: pCube17
+    3300016: pCube18
+    3300018: pCube23
+    3300020: pCube24
+    3300022: pCube25
+    3300024: pCube25 1
+    3300026: pCube26
+    3300028: pCube26 1
+    3300030: pCube27
+    3300032: pCube27 1
+    3300034: pCube28
+    3300036: pCube29
+    3300038: pCube30
+    3300040: pCube5
+    3300042: pCube50
+    3300044: pCube50 1
+    3300046: pCube51
+    3300048: pCube53
+    3300050: pCube53 1
+    3300052: pCube54
+    3300054: pCube54 1
+    3300056: pCube55
+    3300058: pCube55 1
+    3300060: pCube56
+    3300062: pCube56 1
+    3300064: pCube57
+    3300066: pCube57 1
+    3300068: pCube58
+    3300070: pCube58 1
+    3300072: pCube59
+    3300074: pCube59 1
+    3300076: pCube6
+    3300078: pCube60
+    3300080: pCube60 1
+    3300082: pCube61
+    3300084: pCube61 1
+    3300086: pCube62
+    3300088: pCube62 1
+    3300090: pCube63
+    3300092: pCube63 1
+    3300094: pCube64
+    3300096: pCube64 1
+    3300098: pCube65
+    3300100: pCube7
+    3300102: pCube7 1
+    3300104: pCube7 2
+    3300106: pCube7 3
+    3300108: pCube8
+    3300110: pCube8 1
+    3300112: pCube8 2
+    3300114: pCube8 3
+    3300116: pCylinder10
+    3300118: pCylinder11
+    3300120: pCylinder12
+    3300122: pCylinder12 1
+    3300124: pCylinder13
+    3300126: pCylinder13 1
+    3300128: pCylinder14
+    3300130: pCylinder14 1
+    3300132: pCylinder15
+    3300134: pCylinder15 1
+    3300136: pCylinder16
+    3300138: pCylinder17
+    3300140: pCylinder18
+    3300142: pCylinder19
+    3300144: pCylinder2
+    3300146: pCylinder20
+    3300148: pCylinder21
+    3300150: pCylinder22
+    3300152: pCylinder23
+    3300154: pCylinder34
+    3300156: pCylinder42
+    3300158: pCylinder42 1
+    3300160: pCylinder43
+    3300162: pCylinder43 1
+    3300164: pCylinder44
+    3300166: pCylinder5
+    3300168: pCylinder6
+    3300170: pCylinder6 1
+    3300172: pCylinder7
+    3300174: pCylinder8
+    3300176: pCylinder8 1
+    3300178: pCylinder9
+    3300180: pCube67
+    3300182: pCube68
+    3300184: pCylinder45
+    3300186: pCube455
+    3300188: pCylinder54
+    3300190: pCylinder58
+    3300192: FlagPlate
+    3300194: FlagPlate1
+    3300196: pCube531
+    4300000: pCylinder2
+    4300002: pCube8
+    4300004: pCylinder8
+    4300006: pCylinder9
+    4300008: pCube5
+    4300010: pCylinder8
+    4300012: pCylinder16
+    4300014: pCube8
+    4300016: pCylinder11
+    4300018: pCube12
+    4300020: pCube30
+    4300022: pCylinder18
+    4300024: pCylinder15
+    4300026: pCube8
+    4300028: pCylinder13
+    4300030: pCube23
+    4300032: pCylinder21
+    4300034: pCylinder15
+    4300036: pCube8
+    4300038: pCylinder13
+    4300040: pCube29
+    4300042: pCube15
+    4300044: pCylinder34
+    4300046: pCube16
+    4300048: pCube51
+    4300050: pCube54
+    4300052: pCube55
+    4300054: pCube56
+    4300056: pCube57
+    4300058: pCube58
+    4300060: pCube50
+    4300062: pCylinder42
+    4300064: pCube59
+    4300066: pCube60
+    4300068: pCube61
+    4300070: pCube62
+    4300072: pCube63
+    4300074: pCube64
+    4300076: pCylinder43
+    4300078: pCube53
+    4300080: KRover_LBoardCollider
+    4300082: pCube28
+    4300084: pCube24
+    4300086: pCylinder5
+    4300088: pCube7
+    4300090: pCylinder6
+    4300092: pCylinder7
+    4300094: pCube6
+    4300096: pCylinder6
+    4300098: pCylinder17
+    4300100: pCube7
+    4300102: pCylinder10
+    4300104: pCube25
+    4300106: pCube26
+    4300108: pCylinder19
+    4300110: pCylinder14
+    4300112: pCube7
+    4300114: pCylinder12
+    4300116: pCube27
+    4300118: pCylinder20
+    4300120: pCylinder14
+    4300122: pCube7
+    4300124: pCylinder12
+    4300126: pCube27
+    4300128: pCylinder44
+    4300130: pCube17
+    4300132: pCube18
+    4300134: pCube65
+    4300136: pCube54
+    4300138: pCube55
+    4300140: pCube56
+    4300142: pCube57
+    4300144: pCube58
+    4300146: pCube50
+    4300148: pCylinder42
+    4300150: pCube59
+    4300152: pCube60
+    4300154: pCube61
+    4300156: pCube62
+    4300158: pCube63
+    4300160: pCube64
+    4300162: pCylinder43
+    4300164: pCube53
+    4300166: KRover_RBoardCollider
+    4300168: pCube26
+    4300170: pCube25
+    4300172: KRoverPlatformMain
+    4300174: pCylinder22
+    4300176: pCylinder23
+    4300178: KRoverPlatformExtention
+    4300180: pCube67
+    4300182: pCube68
+    4300184: pCylinder45
+    4300186: pCylinder54
+    4300188: pCube455
+    4300190: pCylinder58
+    4300192: FlagPlate
+    4300194: FlagPlate1
+    4300196: pCube531
+    7400000: KIKEA_Rover
+    7400002: DeployRoverPlatformAinm
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DeployRoverPlatformAinm
+      takeName: KIKEA_Rover2
+      firstFrame: 0
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

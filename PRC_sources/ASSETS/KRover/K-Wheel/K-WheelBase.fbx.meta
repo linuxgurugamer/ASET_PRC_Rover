@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 8a8e4f5502a08c644a4f8625ac1d84e6
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube457
+    100004: pCube78
+    100006: SuspArmAxis_A
+    100008: SuspArmAxis_B
+    100010: SuspArmMount_A
+    100012: SuspArmMount_B
+    100014: SuspDampeBottomLoc
+    100016: SuspDumperPistonBase_A
+    100018: SuspDumperPistonBase_B
+    100020: SuspDumperPistonBaseHing_A
+    100022: SuspDumperPistonBaseHing_B
+    100024: SuspDumperPistonMount_A
+    100026: SuspDumperPistonMount_B
+    100028: WheelMountFrame
+    100030: WheelRetractionAnimLoc
+    400000: //RootNode
+    400002: pCube457
+    400004: pCube78
+    400006: SuspArmAxis_A
+    400008: SuspArmAxis_B
+    400010: SuspArmMount_A
+    400012: SuspArmMount_B
+    400014: SuspDampeBottomLoc
+    400016: SuspDumperPistonBase_A
+    400018: SuspDumperPistonBase_B
+    400020: SuspDumperPistonBaseHing_A
+    400022: SuspDumperPistonBaseHing_B
+    400024: SuspDumperPistonMount_A
+    400026: SuspDumperPistonMount_B
+    400028: WheelMountFrame
+    400030: WheelRetractionAnimLoc
+    2300000: pCube457
+    2300002: pCube78
+    2300004: SuspArmAxis_A
+    2300006: SuspArmAxis_B
+    2300008: SuspArmMount_A
+    2300010: SuspArmMount_B
+    2300012: SuspDumperPistonBase_A
+    2300014: SuspDumperPistonBase_B
+    2300016: SuspDumperPistonBaseHing_A
+    2300018: SuspDumperPistonBaseHing_B
+    2300020: SuspDumperPistonMount_A
+    2300022: SuspDumperPistonMount_B
+    2300024: WheelMountFrame
+    3300000: pCube457
+    3300002: pCube78
+    3300004: SuspArmAxis_A
+    3300006: SuspArmAxis_B
+    3300008: SuspArmMount_A
+    3300010: SuspArmMount_B
+    3300012: SuspDumperPistonBase_A
+    3300014: SuspDumperPistonBase_B
+    3300016: SuspDumperPistonBaseHing_A
+    3300018: SuspDumperPistonBaseHing_B
+    3300020: SuspDumperPistonMount_A
+    3300022: SuspDumperPistonMount_B
+    3300024: WheelMountFrame
+    4300000: WheelMountFrame
+    4300002: SuspArmAxis_B
+    4300004: SuspArmAxis_A
+    4300006: SuspDumperPistonMount_A
+    4300008: SuspDumperPistonMount_B
+    4300010: SuspArmMount_A
+    4300012: SuspArmMount_B
+    4300014: SuspDumperPistonBaseHing_A
+    4300016: SuspDumperPistonBaseHing_B
+    4300018: pCube457
+    4300020: pCube78
+    4300022: SuspDumperPistonBase_B
+    4300024: SuspDumperPistonBase_A
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

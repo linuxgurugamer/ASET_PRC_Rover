@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 7e283dfd7c90c3b4e91dadfe538a8d6b
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SuspArmDumperHimgAxis_A1
+    100004: SuspMainPiston
+    100006: SuspMainPistonHing
+    100008: SuspMainPistonLoc
+    100010: WheelMotorHing_A
+    100012: WheelMotorHing_B
+    100014: WheelSteeringBearing1
+    100016: WheeSteeringlMotor_A
+    100018: WheeSteeringlMotor_B
+    100020: WheeYawAxis
+    100022: WheeYawAxis1
+    100024: WheeYawMount
+    400000: //RootNode
+    400002: SuspArmDumperHimgAxis_A1
+    400004: SuspMainPiston
+    400006: SuspMainPistonHing
+    400008: SuspMainPistonLoc
+    400010: WheelMotorHing_A
+    400012: WheelMotorHing_B
+    400014: WheelSteeringBearing1
+    400016: WheeSteeringlMotor_A
+    400018: WheeSteeringlMotor_B
+    400020: WheeYawAxis
+    400022: WheeYawAxis1
+    400024: WheeYawMount
+    2300000: SuspArmDumperHimgAxis_A1
+    2300002: SuspMainPiston
+    2300004: SuspMainPistonHing
+    2300006: WheelMotorHing_A
+    2300008: WheelMotorHing_B
+    2300010: WheelSteeringBearing1
+    2300012: WheeSteeringlMotor_A
+    2300014: WheeSteeringlMotor_B
+    2300016: WheeYawAxis
+    2300018: WheeYawAxis1
+    2300020: WheeYawMount
+    3300000: SuspArmDumperHimgAxis_A1
+    3300002: SuspMainPiston
+    3300004: SuspMainPistonHing
+    3300006: WheelMotorHing_A
+    3300008: WheelMotorHing_B
+    3300010: WheelSteeringBearing1
+    3300012: WheeSteeringlMotor_A
+    3300014: WheeSteeringlMotor_B
+    3300016: WheeYawAxis
+    3300018: WheeYawAxis1
+    3300020: WheeYawMount
+    4300000: SuspArmDumperHimgAxis_A1
+    4300002: SuspMainPistonHing
+    4300004: SuspMainPiston
+    4300006: WheelSteeringBearing1
+    4300008: WheelMotorHing_A
+    4300010: WheelMotorHing_B
+    4300012: WheeYawMount
+    4300014: WheeSteeringlMotor_A
+    4300016: WheeSteeringlMotor_B
+    4300018: WheeYawAxis
+    4300020: WheeYawAxis1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
