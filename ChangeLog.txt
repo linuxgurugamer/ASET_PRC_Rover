@@ -1,2 +1,5 @@
+0.0.1
+	Adoption by Linuxgurugamer
 	Thanks to @Shadowmage for rewriting the wheel code
+	Updated config to allow either stock wheels or KSPWheel
 
