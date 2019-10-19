@@ -28,7 +28,7 @@
 # 0:1.3
 
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
-1:ASET_Rovers, ASET_PRC.version
+1:ASET, ASET_PRC.version, ASET_PRC_Rover
 
 # 3:SOURCEFILE, DESTDIR
 3:ASET_PRC.version,GameData/ASET
