@@ -1,0 +1,25 @@
+{
+  "NAME":"ASET_PRC",
+  "URL": "http://ksp.spacetux.net/avc/ASET_PRC",
+  "DOWNLOAD":"https://github.com/linuxgurugamer/ASET_Rovers/releases/latest",
+  "GITHUB":
+  {
+    "USERNAME":"linuxgurugamer",
+    "REPOSITORY":"ASET_Rovers",
+    "ALLOW_PRE_RELEASE":false
+  },
+  "VERSION":
+  {
+    "MAJOR":0,
+    "MINOR":1,
+    "PATCH":0,
+    "BUILD":0
+  },
+  "KSP_VERSION_MIN":
+  {
+    "MAJOR":1,
+    "MINOR":7,
+    "PATCH":1
+  }
+}
+
