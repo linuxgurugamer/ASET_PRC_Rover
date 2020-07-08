@@ -1,5 +1,12 @@
+Changelog
+0.1.0.1
+    Added drag cube to the ASET_PRC_Bumper becuase KSP is crashing on the 
+    procedural drag cube which is auto-generated.  For 1.10 and older only
+    
 0.0.1
 	Adoption by Linuxgurugamer
 	Thanks to @Shadowmage for rewriting the wheel code
 	Updated config to allow either stock wheels or KSPWheel
 
+0.1.0
+    Updated version file for KSP 1.8

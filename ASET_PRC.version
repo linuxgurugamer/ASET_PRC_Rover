@@ -1,25 +1,27 @@
 {
-  "NAME":"ASET_PRC",
+  "NAME": "ASET_PRC",
   "URL": "http://ksp.spacetux.net/avc/ASET_PRC",
-  "DOWNLOAD":"https://github.com/linuxgurugamer/ASET_PRC_Rover/releases/latest",
-  "GITHUB":
-  {
-    "USERNAME":"linuxgurugamer",
-    "REPOSITORY":"ASET_PRC_Rover",
-    "ALLOW_PRE_RELEASE":false
+  "DOWNLOAD": "https://github.com/linuxgurugamer/ASET_PRC_Rover/releases/latest",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "ASET_PRC_Rover",
+    "ALLOW_PRE_RELEASE": false
   },
-  "VERSION":
-  {
-    "MAJOR":0,
-    "MINOR":0,
-    "PATCH":1,
-    "BUILD":0
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 1,
+    "PATCH": 0,
+    "BUILD": 1
   },
-  "KSP_VERSION_MIN":
-  {
-    "MAJOR":1,
-    "MINOR":7,
-    "PATCH":1
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 10,
+    "PATCH": 0
+  },
+  "INSTALL_LOC_1": {
+    "NAME": "ASET_PRC",
+    "PATH": "ASET",
+    "DIRECTORY": "PRC",
+    "FILE": "ASET_PRC.version"
   }
 }
-
