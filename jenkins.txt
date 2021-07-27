@@ -31,7 +31,7 @@
 1:ASET, ASET_PRC.version, ASET_PRC_Rover
 
 # 3:SOURCEFILE, DESTDIR
-3:ASET_PRC.version,GameData/ASET
+3:ASET_PRC.version,GameData/ASET/PRC
 3:License.md,GameData/ASET
 3:README.md,GameData/ASET
 

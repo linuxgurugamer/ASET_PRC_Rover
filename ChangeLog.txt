@@ -1,4 +1,9 @@
 Changelog
+
+0.1.0.2
+	Moved .version file into PRC directory to make MADLAD happy
+	Updated version files for 1.12
+
 0.1.0.1
     Added drag cube to the ASET_PRC_Bumper becuase KSP is crashing on the 
     procedural drag cube which is auto-generated.  For 1.10 and older only
