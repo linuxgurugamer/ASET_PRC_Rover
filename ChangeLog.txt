@@ -1,5 +1,9 @@
 Changelog
 
+0.1.0.3
+	Thanks to github user @enkido
+		Added stock inventory support
+
 0.1.0.2
 	Moved .version file into PRC directory to make MADLAD happy
 	Updated version files for 1.12
