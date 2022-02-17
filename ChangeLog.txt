@@ -1,5 +1,8 @@
 Changelog
 
+0.1.0.4
+    Changed wheel to use stock wheel instead of KSP Wheel
+    
 0.1.0.3
 	Thanks to github user @enkido
 		Added stock inventory support

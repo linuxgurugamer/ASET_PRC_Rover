@@ -22,7 +22,7 @@ PART:NEEDS[KSPWheel]
 	cost = 550
 	category = Ground
 	subcategory = 0
-	title = ASET PRC Wheel
+	title = ASET PRC Wheel - KSP Wheel variant
 	manufacturer = ASET
 	description = 
 	
